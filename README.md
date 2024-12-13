@@ -2,19 +2,13 @@
 
 Welcome to **Vision-2.0**! This repository is designed to take prototyping tasks to the next level, offering a seamless experience for designers and developers alike. Built for OpenCode, Vision-2.0 provides a structured and interactive platform to explore, learn, and create dynamic designs. Whether you are just getting started or are a seasoned designer, this repository is here to simplify your workflow and enhance your creative journey. 🎨🚀
 
----
-
 ## ✨ Description
 
 Prototyping is the bridge between ideas and implementation. Vision-2.0 encourages creativity and collaboration through hands-on prototyping tasks while emphasizing the importance of design thinking and innovation. Each task in this repository is a stepping stone towards mastering the art of creating user-friendly and visually appealing designs. 🌟
 
----
-
 ## 🛠️ Tech Stack
 
 - **Figma**: The go-to tool for designing interactive prototypes and exploring creative possibilities.
-
----
 
 ## 🔑 Key Features
 
@@ -25,8 +19,6 @@ Prototyping is the bridge between ideas and implementation. Vision-2.0 encourage
 - **Mentorship Support**: Get feedback, resolve queries, and improve your designs with the guidance of mentors.
 - **Contribution Opportunities**: An open platform to showcase your skills and collaborate with the community
 
----
-
 ## 📜 Community Guidelines
 
 We believe in fostering a supportive and inclusive community. Please adhere to the following guidelines:
@@ -36,8 +28,6 @@ We believe in fostering a supportive and inclusive community. Please adhere to t
 - **Ask Questions**: Feel free to ask mentors for clarification or help.
 - **Follow Task Deadlines**: Submissions will only be accepted within the allotted time.
 - **Collaborate**: Help each other grow by sharing constructive feedback.
-
----
 
 ## 💡 Contribution Guidelines
 
@@ -53,18 +43,12 @@ We welcome contributions! Please follow these steps while contributing to this p
 > 
 > - Click the fork button on the repository page
 
----
-
----
-
 ## 📢 Important Rules
 
 - Submissions are only accepted within the allotted time for each task.
 - The **Mentors & Organizers' decisions are final** in awarding points and evaluating submissions.
 - Points are based on originality, design thinking, and visual presentation.
 - Remember, **learning > points**. Strive for improvement rather than perfection!
-
----
 
 ## 🤝 Support
 
