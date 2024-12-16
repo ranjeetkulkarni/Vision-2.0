@@ -1,7 +1,7 @@
 # **Spinning Carousel Animation**
 ### **OPEN TO ALL**  
 *No need to claim this issue*  
-**NO SUBMISSION WILL BE ACCEPTED AFTER 15th December 11:59 P.M.**
+**NO SUBMISSION WILL BE ACCEPTED AFTER 16th December 11:59 P.M.**
 
 ---
 
