@@ -1,2 +1,2 @@
 Figma File:-https://www.figma.com/design/6lXoxo5FeYMiNqBSYdYs2k/Untitled?node-id=0-1&t=6z1uBFX9CdkeP6pE-1
-Prototype:-https://www.figma.com/proto/6lXoxo5FeYMiNqBSYdYs2k/Untitled?page-id=0%3A1&node-id=5-253&p=f&viewport=419%2C355%2C0.14&t=hxGaYippmnklczHt-1&scaling=min-zoom&content-scaling=fixed
+Prototype:-https://www.figma.com/proto/6lXoxo5FeYMiNqBSYdYs2k/Untitled?page-id=0%3A1&node-id=5-253&p=f&viewport=388%2C300%2C0.19&t=p6Vds0stouXgwBE2-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=5%3A253
