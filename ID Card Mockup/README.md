@@ -1,7 +1,7 @@
-### Issue: Create a Mockup of ID Card in Figma  
+### Create a Mockup of ID Card in Figma  
 🌟 **OPEN TO ALL** 🌟  
 ⚠️ **No need to claim this issue**  
-⏳ **NO SUBMISSION WILL BE ACCEPTED AFTER 20th December 11:59 A.M.**
+⏳ **NO SUBMISSION WILL BE ACCEPTED AFTER 22nd December 11:59 A.M.**
 
 ---
 
@@ -18,7 +18,7 @@ The goal is to create a professional, sleek, and visually appealing ID card mock
 - Submit the link to your Figma file in a `.txt` file.  
 - Place the `.txt` file under the **ID Card Mockup** folder in this repository.  
 - Ensure your design is clean, polished, and structured.  
-- Avoid directly copying any existing designs. Showcase your originality!  
+- **Avoid directly copying any existing designs. Showcase your originality!** 
 
 🔖 **This task is worth: 30 points**  
 
