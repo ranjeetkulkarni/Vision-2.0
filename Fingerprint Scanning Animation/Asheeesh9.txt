@@ -1,0 +1,2 @@
+design : https://www.figma.com/design/uC9o34SsuL2Q0dA2itNKsi/Untitled?node-id=2-28&t=oerJc9r5jWEtfDj4-1
+prototype: https://www.figma.com/proto/uC9o34SsuL2Q0dA2itNKsi/Untitled?node-id=2-38&t=EFMyRGqDFL8S8oHh-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
