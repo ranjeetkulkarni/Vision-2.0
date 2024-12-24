@@ -1,0 +1,3 @@
+Design Link : "https://www.figma.com/design/zK3W02JTRbCq6ypAUn2bKW/ROLLING-TEXT-OOPSHWET?node-id=0-1&m=dev&t=GjHocxapEMUaS3ED-1"
+
+Prototype Link : 'https://www.figma.com/proto/zK3W02JTRbCq6ypAUn2bKW/ROLLING-TEXT-OOPSHWET?node-id=0-1&t=GjHocxapEMUaS3ED-1'
