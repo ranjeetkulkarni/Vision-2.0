@@ -24,7 +24,7 @@ Good UI design enhances the app's visual appeal and provides a friendly user exp
 ---
 
 ### **Minimum Design Criteria (MDC):**  
-This task is worth **25 points**, so your design must meet the following criteria:  
+This task is worth **30 points**, so your design must meet the following criteria:  
 - The design should be **appropriate**, **consistent**, and **clean**.  
 
 ---
