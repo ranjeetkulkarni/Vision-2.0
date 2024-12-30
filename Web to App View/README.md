@@ -48,7 +48,7 @@ The final design should be **consistent**, **intuitive**, and **visually appeali
 ---
 
 ### 🖼️ **Screen to Redesign**:  
-![image](https://github.com/user-attachments/assets/a6f4eae2-c377-43b8-874f-b9248cc9214a)
+![image](https://github.com/user-attachments/assets/6dfb990b-e776-4932-a672-502f23e32d5c)
 
 ---
 
