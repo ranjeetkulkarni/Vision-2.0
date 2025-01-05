@@ -1,0 +1,2 @@
+Design: https://www.figma.com/design/VW4mtxDjp7SvEfWgLBiNk7/Rating?node-id=0-1&t=ZN7rWl8Ri2sl2RUn-1
+Prototype: https://www.figma.com/proto/VW4mtxDjp7SvEfWgLBiNk7/Rating?node-id=1-2&p=f&t=ZN7rWl8Ri2sl2RUn-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2
